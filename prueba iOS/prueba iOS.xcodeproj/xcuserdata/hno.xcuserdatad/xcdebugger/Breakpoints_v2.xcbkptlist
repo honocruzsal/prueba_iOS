@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba iOS/Cell/Inicio/CellCategories.swift"
+            timestampString = "590478734.794669"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba iOS/Cell/Inicio/CellCategories.swift"
+            timestampString = "590478734.794999"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba iOS/View/Inicio/VCTabla.swift"
+            timestampString = "590478734.795073"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "updateDataSource()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba iOS/Cell/Inicio/CellCategories.swift"
+            timestampString = "590478734.7956949"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "CellCategories"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "prueba_iOS.CellCategories.modelsMovies.getter : Swift.Optional&lt;Swift.Array&lt;Swift.Optional&lt;prueba_iOS.ModelMovies&gt;&gt;&gt;"
+                  moduleName = "prueba iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hno/Documents/GitHub/prueba_iOS/prueba%20iOS/prueba%20iOS/Cell/Inicio/CellCategories.swift"
+                  timestampString = "590478594.130447"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "prueba_iOS.CellCategories.modelsMovies.setter : Swift.Optional&lt;Swift.Array&lt;Swift.Optional&lt;prueba_iOS.ModelMovies&gt;&gt;&gt;"
+                  moduleName = "prueba iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hno/Documents/GitHub/prueba_iOS/prueba%20iOS/prueba%20iOS/Cell/Inicio/CellCategories.swift"
+                  timestampString = "590478594.133284"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "prueba_iOS.CellCategories.modelsMovies.modify : Swift.Optional&lt;Swift.Array&lt;Swift.Optional&lt;prueba_iOS.ModelMovies&gt;&gt;&gt;"
+                  moduleName = "prueba iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hno/Documents/GitHub/prueba_iOS/prueba%20iOS/prueba%20iOS/Cell/Inicio/CellCategories.swift"
+                  timestampString = "590478594.135956"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "prueba_iOS.CellCategories.modelsMovies.modify : Swift.Optional&lt;Swift.Array&lt;Swift.Optional&lt;prueba_iOS.ModelMovies&gt;&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "prueba iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hno/Documents/GitHub/prueba_iOS/prueba%20iOS/prueba%20iOS/Cell/Inicio/CellCategories.swift"
+                  timestampString = "590478594.138564"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "prueba_iOS.CellCategories.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; prueba_iOS.CellCategories"
+                  moduleName = "prueba iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hno/Documents/GitHub/prueba_iOS/prueba%20iOS/prueba%20iOS/Cell/Inicio/CellCategories.swift"
+                  timestampString = "590478594.141246"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "prueba_iOS.CellCategories.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;prueba_iOS.CellCategories&gt;"
+                  moduleName = "prueba iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hno/Documents/GitHub/prueba_iOS/prueba%20iOS/prueba%20iOS/Cell/Inicio/CellCategories.swift"
+                  timestampString = "590478594.144565"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba iOS/Cell/Inicio/CellCategories.swift"
+            timestampString = "590478734.7957619"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba iOS/Cell/Inicio/CellCategories.swift"
+            timestampString = "590478734.795825"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prueba iOS/Cell/Inicio/CellCategories.swift"
+            timestampString = "590478734.795889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
